@@ -48,6 +48,11 @@ My main goal is to become a valuable member of a good team and open source commu
 
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 #### Todoist Stats
