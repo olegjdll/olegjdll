@@ -50,7 +50,7 @@ My main goal is to become a valuable member of a good team and open source commu
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-# Todoist Stats
+#### Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  9,527 Karma Points           
