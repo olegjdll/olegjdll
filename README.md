@@ -50,6 +50,8 @@ My main goal is to become a valuable member of a good team and open source commu
 <!--START_SECTION:waka-->
 
 ```text
+From: 30 April 2022 - To: 30 May 2022
+
 Total Time: 5 hrs 58 mins
 
 Other    11 hrs 36 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀   65.99 %
