@@ -48,11 +48,6 @@ My main goal is to become a valuable member of a good team and open source commu
 
 
 <!--START_SECTION:waka-->
-
-```text
-Other    11 hrs 36 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀   65.99 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Todoist Stats
