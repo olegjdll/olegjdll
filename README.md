@@ -46,19 +46,6 @@ My main goal is to become a valuable member of a good team and open source commu
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)
 ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
 
-
-<!--START_SECTION:waka-->
-
-```text
-From: 01 May 2022 - To: 31 May 2022
-
-Total Time: 7 hrs 21 mins
-
-Other        21 hrs 45 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.72 %
-```
-
-<!--END_SECTION:waka-->
-
 #### Todoist Stats
 
 <!-- TODO-IST:START -->
