@@ -28,6 +28,7 @@ My main goal is to become a valuable member of a good team and open source commu
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)
+
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 ![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat)
 
@@ -41,9 +42,11 @@ My main goal is to become a valuable member of a good team and open source commu
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Rider Badge](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff&style=flat)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
+
+![EditorConfig Badge](https://img.shields.io/badge/EditorConfig-FEFEFE?logo=editorconfig&logoColor=000&style=flat)
+![SonarQube Badge](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=fff&style=flat)
 ![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=flat)
 ![NuGet Badge](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff&style=flat)
-
 
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat)
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)
