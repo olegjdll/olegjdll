@@ -64,6 +64,7 @@ My main goal is to become a valuable member of a good team and open source commu
 
 ###### Hobbies
 ![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff&style=flat)
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat)
 ![Goodreads Badge](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff&style=flat)
 ![Google Podcasts Badge](https://img.shields.io/badge/Google%20Podcasts-4285F4?logo=googlepodcasts&logoColor=fff&style=flat)
 ![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)
