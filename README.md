@@ -56,9 +56,9 @@ My main goal is to be a valuable member of a good team and open source community
 #### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  10,377 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 1,082 tasks so far           
+🏆  10,387 Karma Points           
+🌸  Completed 10 tasks today           
+✅  Completed 1,091 tasks so far           
 ⏳  Longest streak is 27 days
 <!-- TODO-IST:END -->
 
