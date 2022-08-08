@@ -57,7 +57,7 @@ My main goal is to be a valuable member of a good team and open source community
 
 <!-- TODO-IST:START -->
 🏆  10,572 Karma Points           
-🌸  Completed 8 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 1,121 tasks so far           
 ⏳  Longest streak is 27 days
 <!-- TODO-IST:END -->
