@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=220&section=header&text=Aleh%20Belausau&fontSize=75&animation=fadeIn&fontAlignY=38&desc=.Net%20Developer&descAlignY=55&descAlign=70)
 
 ## About me
-My main goal is to be a valuable member of a good team and open source community.
+ I am a Software Engineer with a vast interest in system design and data manipulation.
   
 <a href="https://t.me/oleg_jdll"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat" alt="Telegram Badge"/></a>&nbsp;
 <a href="mailto:alehbelausau@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge"/></a>&nbsp;
