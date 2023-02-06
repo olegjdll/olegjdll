@@ -53,15 +53,6 @@
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)
 ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
 
-#### Todoist Stats
-
-<!-- TODO-IST:START -->
-🏆  11,402 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1,397 tasks so far           
-⏳  Longest streak is 27 days
-<!-- TODO-IST:END -->
-
 ###### Hobbies
 ![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff&style=flat)
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat)
