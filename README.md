@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=220&section=header&text=Aleh%20Belausau&fontSize=75&animation=fadeIn&fontAlignY=38&desc=.Net%20Developer&descAlignY=55&descAlign=70)
-
 ## About me
  I am a Software Engineer with a vast interest in system design and data manipulation.
   
