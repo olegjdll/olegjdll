@@ -1,5 +1,5 @@
 ## About me
- I am a Software Engineer with a vast interest in system design and data manipulation.
+Data & Software Engineer with a vast interest in system design and data manipulation.
   
 <a href="https://t.me/oleg_jdll"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat" alt="Telegram Badge"/></a>&nbsp;
 <a href="mailto:alehbelausau@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge"/></a>&nbsp;
@@ -13,15 +13,22 @@
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Azure Functions Badge](https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azurefunctions&logoColor=fff&style=flat)
-![Blazor Badge](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff&style=flat)
+
+### Data Engineering
+![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=plastic)
+![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=plastic)
+![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=plastic)
+![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic)
 
 ### Databases
+![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
-![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+
+### Cloud
+![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=plastic)
+![Azure Functions Badge](https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azurefunctions&logoColor=fff&style=flat)
 
 ### CI/CD & Documantation
 ![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=flat)
@@ -39,6 +46,7 @@
 ![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=flat)
 
 ### Software & Tools
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Rider Badge](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff&style=flat)
