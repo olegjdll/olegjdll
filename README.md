@@ -1,9 +1,9 @@
 ## About me
-Microsoft Certified Data Engineer with a proven track record in software engineering and a specialization in building data-intensive applications. With extensive experience in MS Azure, I possess a deep understanding of its features and capabilities. I have a strong expertise in Object-Oriented programming and a proven ability to design software architecture using industry-standard patterns and principles.
+Data Engineer with over 5 years of experience designing and operating data-intensive solutions on cloud platforms such as Azure, Databricks, and Snowflake, and leveraging open-source tools and programming languages like Python, SQL, and C# to build custom analytical platforms and high-performance data processing systems. Skilled at translating stakeholder needs into robust technical solutions, I specialize in data architecture, performance optimization, ETL pipelines, and advanced data management.
 
-Driven by a passion for system design and data manipulation, I constantly seek innovative solutions to complex problems. As an active member of the .Net community, I stay updated with the latest technologies and trends, ensuring I bring cutting-edge knowledge and skills to every project.
+I have experience collaborating with teams of all sizes, ranging from small agile groups to large cross-functional teams. My expertise includes building and optimizing analytical workloads for high performance and scalability, developing data-intensive software, auditing systems, providing cross-disciplinary consulting, implementing CI/CD pipelines, and managing cloud infrastructure.
 
-My focus on system design and continuous learning enables me to deliver robust and efficient solutions that meet the highest standards of quality and performance.
+Beyond my core responsibilities, I present tech talks at conferences, publish articles on data architecture and advanced data management on my blog, and mentor aspiring data engineers and backend developers. Additionally, I lectured on SQL at Inha University in Tashkent.
   
 <a href="https://t.me/oleg_jdll"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat" alt="Telegram Badge"/></a>&nbsp;
 <a href="mailto:alehbelausau@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge"/></a>&nbsp;
