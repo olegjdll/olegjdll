@@ -8,7 +8,5 @@ Beyond my core responsibilities, I present tech talks at conferences, publish ar
 <a href="https://t.me/oleg_jdll"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat" alt="Telegram Badge"/></a>&nbsp;
 <a href="mailto:alehbelausau@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/aleh-belausau/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge"/></a>&nbsp;
-<a href="https://join.skype.com/invite/zhkdwJj0NKfa"><img src="https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=flat" alt="Skype Badge"/></a>&nbsp;
-<a href=""></a>&nbsp;
 
 
